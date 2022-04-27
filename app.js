@@ -1,6 +1,6 @@
 'use strict'
 
-//задание1
+git//задание1
 let name = prompt('как тебя зовут?');
 alert(name);
 
@@ -67,3 +67,4 @@ if(enterNumFirst && enterNumSecond){
     alert(minus)
   }
 }
+let a1 = 0;
