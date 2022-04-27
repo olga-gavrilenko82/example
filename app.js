@@ -67,4 +67,4 @@ if(enterNumFirst && enterNumSecond){
     alert(minus)
   }
 }
-let a1
+let a1 = 0;
